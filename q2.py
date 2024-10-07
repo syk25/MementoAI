@@ -4,7 +4,7 @@
 """
 
 
-def solution(number: str) -> str:
+def solution(number: str):
 
     number_length = len(number)
 
